@@ -7,7 +7,7 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("I want to be on github!");
+            Console.WriteLine("I'm on github now :D");
         }
     }
 }
