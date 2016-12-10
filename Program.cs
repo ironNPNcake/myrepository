@@ -11,6 +11,7 @@ namespace ConsoleApplication
             klasa.pisz();
             
             Console.ReadKey();
+            //Hello
             
         }
     }
