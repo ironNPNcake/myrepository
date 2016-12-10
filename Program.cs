@@ -9,7 +9,7 @@ namespace ConsoleApplication
         {
             Console.WriteLine("I'm on github now :D");
             klasa.pisz();
-            
+            //Commit bez push
             Console.ReadKey();
             
         }
