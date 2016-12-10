@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Windows;
+//using System.Windows;
 
 namespace ConsoleApplication
 {
@@ -11,7 +11,6 @@ namespace ConsoleApplication
             klasa.pisz();
             
             Console.ReadKey();
-            char a;
             
         }
     }
