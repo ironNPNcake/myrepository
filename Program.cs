@@ -9,6 +9,9 @@ namespace ConsoleApplication
         {
             Console.WriteLine("I'm on github now :D");
             klasa.pisz();
+            
+            Console.ReadKey();
+            
         }
     }
 }
